@@ -11,9 +11,9 @@ googleAnalytics = ""
   name = "JianZhang"
 
 [params]
-   author = "JianZhang"
-   description = "JianZhang's Blog."
-
+  author = "JianZhang"
+  description = "JianZhang's Blog."
+  style = "dark-without-switcher"
 [menu]
 
   [[menu.main]]

@@ -13,7 +13,9 @@ googleAnalytics = ""
 [params]
   author = "JianZhang"
   description = "JianZhang's Blog."
-  style = "dark-without-switcher"
+  style = "light-without-switcher"
+  favicon = "favicon.ico"
+
 [menu]
 
   [[menu.main]]
@@ -38,3 +40,6 @@ googleAnalytics = ""
 category = "categories"
 tag = "tags"
 series = "series"
+
+[markup.goldmark.renderer]
+unsafe = true
